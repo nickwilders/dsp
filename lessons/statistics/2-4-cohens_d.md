@@ -2,7 +2,7 @@
 
 
 
-### First, I completed a histogram comparing the two values: 
+First, I completed a histogram comparing the two values: 
 '''
 first_hist = thinkstats2.Hist(firsts.birthwgt_lb, label='first')
 other_hist = thinkstats2.Hist(others.birthwgt_lb, label='other')
